@@ -1,16 +1,16 @@
-## Hi there 👋
+# ¡Hola! Soy Dalma 👋
 
-<!--
-**DalmaDiazA/DalmaDiazA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi rincón de experimentos! 
 
-Here are some ideas to get you started:
+### Sobre mí ✨
+No soy desarrolladora, pero me define la **curiosidad**. Soy una entusiasta de la tecnología con muchas ganas de **crear mis propias cosas** y entender cómo funciona el mundo detrás de la pantalla.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌱 Actualmente aprendiendo a construir mis propias ideas.
+* 💡 Creo que no hay que ser experta para empezar a crear.
+* 🚀 Mi meta es convertir la curiosidad en proyectos reales.
+
+### Hablemos 💬
+Si quieres compartir ideas o simplemente saludar, puedes encontrarme aquí:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dalma-andrea-diaz)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dalma.andrea.diaz@gmail.com)
