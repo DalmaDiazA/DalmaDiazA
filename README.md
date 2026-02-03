@@ -1,4 +1,4 @@
-# ¡Hola! Soy Dalma 👋
+# ¡Hola! Soy Dal 👋
 
 ¡Bienvenido a mi rincón de experimentos! 
 
