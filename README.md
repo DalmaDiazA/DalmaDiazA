@@ -1,6 +1,6 @@
 # ¡Hola! Soy Dal 👋
 
-¡Bienvenido a mi rincón de experimentos! 
+Bienvenido a mi rincón de experimentos.
 
 ### Sobre mí ✨
 No soy desarrolladora, pero me define la **curiosidad**. Soy una entusiasta de la tecnología con muchas ganas de **crear mis propias cosas** y entender cómo funciona el mundo detrás de la pantalla.
